@@ -1,3 +1,4 @@
+//shortest job first
 #include <stdio.h>
 
 int main() {
